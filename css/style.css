@@ -1,0 +1,23 @@
+.featurette-heading {
+     font-size: 4em;
+     padding-top: 8%;
+     font-family: fantasy;
+     
+}
+
+.never {
+	font-family: fantasy;
+}
+.frequent {
+	font-family: fantasy;
+}
+.rooms {
+	font-family: fantasy;
+}
+.active, .lol{
+	font-family: fantasy;
+}
+.navbar-brand{
+	font-family: Bookman Old Style;
+	color: green;
+}
